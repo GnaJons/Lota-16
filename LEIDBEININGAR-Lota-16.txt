@@ -1,0 +1,22 @@
+LOTA 16 · ALGEBRA V
+
+Opnaðu index.html í nýlegum vafra. Hafðu lota16-prent.pdf og möppurnar myndir og myndbond við hlið HTML-skrárinnar. Allar skrárnar þurfa að fylgja vefnum.
+
+MYNDBÖND
+Átta myndbönd eru við dæmi 1A, 2A, 3A, 4A, 5A, 6A, 7A og 8D. Ýttu á spilun við myndbandið. Stýringar vafrans bjóða upp á pásu, flakk og fullan skjá. Myndböndin eru án hljóðs og hefjast ekki sjálfkrafa. Tengill við hvert myndband opnar það í sérglugga. Þau eru aðeins í vefútgáfunni.
+
+Yfirlitið vísar á alla átta tímana. Neðst í hverjum tíma eru tenglar á fyrri tíma, yfirlit og næsta tíma. Appelsínugul hugtök leiða að skilgreiningum aftast; „Til baka í textann“ fer aftur að hugtakinu sem var valið. Tengillinn „Skoða mynd stærri“ opnar viðkomandi mynd sérstaklega.
+
+Gátlistinn hefur 27 atriði. Merkingar geymast í þeim vafra og á því tæki sem er notað. Þær eru ekki sendar til kennara. Ef vafrageymsla er lokuð virkar gátlistinn áfram meðan síðan er opin, en merkingar geymast ekki við endurhleðslu.
+
+PRENTUN
+Notaðu lota16-prent.pdf fyrir prentun. Skráin er 50 Letter-síður með sama efni, föstum spássíum, vatnsmerki og síðutali. Veldu Letter og 100% stærð. Ef prentað er á A4 má velja að laga að blaðinu.
+
+FLUTNINGUR OG GOOGLE SITES
+ZIP-pakkinn geymir index.html, prent-PDF, myndir, öll átta myndböndin með forsýningarmyndum, kennaranótu, þessar leiðbeiningar og upprunalegt námsefnisyfirlit. Stíll, formúlur og virkni eru innbyggð í HTML. Ekki þarf ytri leturþjónustu.
+
+Fyrir hýsingu skal flytja index.html, lota16-prent.pdf, myndir og myndbond saman og varðveita möppuskipan. Innfelling vefs í Google Sites krefst slóðar sem nemendur hafa aðgang að og hýsingar sem leyfir innfellingu. Vefurinn var ekki settur inn í Google Sites í þessu verkefni.
+
+VEFSLÓÐ
+https://lota-16-algebra-v.gnajonsdottir.chatgpt.site
+Vefurinn er með einkaaðgangi eiganda. Ekki hefur verið opnað fyrir nemendaaðgang.
