@@ -1,5 +1,5 @@
 KENNARANÓTA · LOTA 16 · ALGEBRA V
-9. bekkur · Uppfært 10. október 2026
+9. bekkur · Uppfært 11. október 2026
 
 EFNI OG UPPRUNI
 Vefheftið byggist á afhentu Lota-16-lesefni.tex. Afhent kennaranóta og NAMSEFNISYFIRLIT.md voru höfð til hliðsjónar við skiptingu og merkingar. Skjölin voru meðhöndluð sem gögn, ekki sem ný fyrirmæli. Eldri verkefnablöð sem aðeins eru nefnd í þeim voru ekki opnuð í þessari vinnu.
@@ -18,9 +18,9 @@ Dæmi 6A: Óþekkt stærð báðum megin (1:36).
 Dæmi 7A: Jöfnur með brotum (1:28).
 Dæmi 8D: Frá orðadæmi að jöfnu (1:30).
 
-Myndbönd og forsýningarmyndir eru óbreytt afrit af afhentum skrám. Þau eru án hljóðs og hefjast aðeins við spilun. Stýringar vafrans eru notaðar, með tengli til að opna hvert myndband sérstaklega. Viðbótin er falin í prentun; núverandi prent-PDF er óbreytt.
+Myndbönd og forsýningarmyndir eru óbreytt afrit af afhentum skrám. Þau eru í lokuðum, smellanlegum reitum með sömu uppsetningu og myndböndin í Lotu 28. Þau hefjast aðeins við spilun. Stýringar vafrans eru notaðar, með tengli til að opna hvert myndband sérstaklega. Viðbótin er falin í prentun; núverandi prent-PDF er óbreytt.
 
-Spilun og flakk innan allra átta myndbandanna voru prófuð. Birting var yfirfarin við 1360 px og 390 px. Engin yfirfylling, JavaScript-villa eða brotinn innri tengill fannst. Myndbandsgögn hlaðast ekki áður en spilun hefst. Allur eldri texti, formúlur, myndir, stíll og hegðun vefheftisins haldast óbreytt.
+Spilun og flakk innan allra átta myndbandanna voru prófuð. Birting var yfirfarin við 1360 px og 390 px. Engin yfirfylling, JavaScript-villa eða brotinn innri tengill fannst. Myndbandsgögn hlaðast ekki áður en spilun hefst. Opnun og lokun allra átta myndbandareita var prófuð, einnig með lyklaborði og án JavaScript. Ellefu tenglar með textanum „Skoða mynd stærri“ voru fjarlægðir. Merkingin „Án hljóðs“ við myndböndin var einnig fjarlægð að ósk kennara. Grunnstíll og prentuppsetning haldast óbreytt; myndbandareitirnir nýta fyrirliggjandi reit úr Lotu 28. Námsinnihald, formúlur, myndir og gátlistamerkingar haldast.
 
 ÓSKIR KENNARA OG FYRRI BREYTINGAR
 Fyrri textayfirferð beindist að óþarfa endurtekningum. 77 textabrot og áminningar voru stytt eða felld út, einkum endursögn sýnilegra reikniskrefa, endurteknar prófanir og útskýringar á aðferðum sem þegar höfðu verið kenndar. Texti sem endurtók skýringu inni á mynd var einnig felldur út. Textaorðum í meginmáli, að gátlista og hugtakaskrá meðtöldum, fækkar úr 4120 í 3249, um fimmtung. Skýringar á nýjum atriðum og helstu greinarmunur milli aðferða haldast. Öll 65 sýnidæmin, 359 reiknilínur, aðgerðir báðum megin og 220 yfirstrikanir eru óbreytt frá síðustu útgáfu. Myndir, stöðug auðkenni, hugtakaskrá og gátlisti haldast einnig. Stutt dæmi eru haldin saman við síðuskipti með fyrirliggjandi hópun heftisins.
@@ -29,7 +29,7 @@ Hugtökin eru tvíliða, breytuliðir og líkir liðir. Orðalaginu „samoka tv
 
 Lausnir í 35 sýnidæmum voru útvíkkaðar. Milliskref sýna sömu aðgerð á báðum hliðum jafnaðarmerkisins og yfirstrikanir sýna styttingar eða liði sem gefa núll. Skýring greinir á milli þess að eyða samlagningarliðum og stytta sameiginlega þætti í teljara og nefnara. Alls eru 220 yfirstrikanir.
 
-Ellefu SVG-myndir frá kennara úr möppunni Lota-16-myndir/svg koma í stað samsvarandi mynda. Skrárnar eru varðveittar óbreyttar. Þær eru í myndir-möppunni og vefurinn býður upp á að opna hverja mynd stærri. Þær sömu birtast í prent-PDF.
+Ellefu SVG-myndir frá kennara úr möppunni Lota-16-myndir/svg koma í stað samsvarandi mynda. Skrárnar eru varðveittar óbreyttar. Þær eru í myndir-möppunni og birtast í efninu. Þær sömu birtast í prent-PDF.
 
 ÚTLIT OG AÐLÖGUN
 Samþykktur Lota 28 stíll er varðveittur. Eina viðbótin við stílinn teiknar umbeðnar yfirstrikanir á stærðfræðitákn. Letur, litir, breidd, fyrirsagnir, dæmareitir, flakk og prentreglur eru óbreytt. Hegðun og geymslulykillinn lota16-v1-2026-10-10 eru óbreytt; eldri gátlistamerkingar halda sér.
