@@ -1,50 +1,140 @@
+HEITI OG MYNDLÝSINGAR YFIRFARIN AFTUR – 3. NÓVEMBER 2026
+Eftir ábendingu kennara var kaflafyrirsögninni „Svigar og brotastuðlar“ breytt í „Svigar og stuðlar sem eru brot“. Allar viðeigandi fyrirsagnir voru samræmdar við „Stuðlar sem eru brot“ og „Stuðlar sem eru tugabrot“. Farið var aftur yfir allan texta heftisins, gátlista, hugtakaskrá, aðgengislýsingar og texta í öllum ellefu SVG-myndunum. Nokkrar myndlýsingar voru skýrðar og „tölurnar utan sviganna“ notað í einni skýringu. Orðalag um styttingu liða var einfaldað. Stærðfræði, stöðug auðkenni, myndir og uppsetning haldast.
+
+Orðalagsvalið er vistað í Námsefnissmið – föstum Lota 28 stíl, útgáfu 1.0.19, ásamt reglu um að staðfesta óviss fagheiti í traustu íslensku námsefni og nota skýrar lýsingar í stað óstaðfestra samsetninga. Viðmið kennara eru orðalagsval í þessum heftum, ekki almenn fullyrðing um stöðu sérhvers orðs í íslensku.
+Vefútgáfan var skoðuð á stórum skjá og símaskjá. Prentútgáfan er áfram 61 síða; allar breyttar síður voru myndaðar og skoðaðar. HTML, PDF og ZIP eru samræmd.
+
+FYRRI OG SEINNI FERNINGSREGLAN – 3. NÓVEMBER 2026
+Fyrirsögninni „Ferningur mismunar“ var breytt í „Seinni ferningsreglan“. Verkefnisfyrirmæli og myndlýsing voru samræmd með orðalaginu „fyrri ferningsreglan“ og „seinni ferningsreglan“. Útreikningar eru óbreyttir. Vefútgáfa, PDF og ZIP eru samræmd.
+
+TEXTI VIÐ MYND FJARLÆGÐUR OG FYRIRSÖGN LAGFÆRÐ – 3. NÓVEMBER 2026
+Eftir ábendingu kennara var textinn hægra megin við myndina af seinni ferningsreglunni fjarlægður ásamt skilyrðinu a > b > 0. Sjálf teikningin og merkingar hennar haldast. Myndflöturinn var minnkaður svo auður dálkur sitji ekki eftir. Fyrirsögn dæmis 37 er nú „Stuðlar sem eru tugabrot“. Leitað var að öllum beygingarmyndum orðsins „tugabrotsstuðull“ í vefheftinu og engar eru eftir.
+Vefmyndin og fyrirsögnin voru skoðuð á stórum skjá og símaskjá. Prentútgáfan var endurgerð og breyttar síður skoðaðar. HTML, mynd, PDF og ZIP eru samræmd.
+
+MÁLFAR YFIRFARIÐ Í ÖLLU HEFTINU – 3. NÓVEMBER 2026
+Farið var aftur yfir alla átta tímana, yfirlit, fyrirsagnir, verkefnisfyrirmæli, gátlista og hugtakaskrá með eðlilegt íslenskt kennslumál að leiðarljósi. Þungt og óljóst orðalag var endursamið og óþarfar endurtekningar styttar. Meðal breytinga: „Ummál gefur jöfnu“ varð „Jafna út frá ummáli“, „Tveir mismunir ferninga“ varð „Samokareglan notuð tvisvar“ og „hreinsun nefnara“ varð skýring á því hvernig losna má við nefnarana. Skilgreiningar á lausn jöfnu, innsetningu, andhverfum aðgerðum og hæð þríhyrnings voru einnig skýrðar.
+
+Allir stærðfræðiútreikningar, myndir, myndbönd, dæmanúmer, auðkenni og tenglaslóðir eru óbreytt. Fyrri óskir um samstillingu jafnaðarmerkja, sviga og lit við innsetningu, tvöfaldar undirstrikanir og tvö dæmi hlið við hlið haldast. Vafraathuganir stóðust á þremur skjástærðum og prentútgáfan er áfram 61 síða. Allar 44 síður sem breyttust voru myndaðar og skoðaðar. HTML, PDF og ZIP eru samræmd.
+
+EÐLILEGRA ÍSLENSKT ORÐALAG VIÐ SAMOKAREGLU – 3. NÓVEMBER 2026
+Eftir ábendingu kennara var óskýra orðalagið um „margfeldi summu og mismunar sömu stærða“ tekið úr námsmarkmiði. Markmiðið er nú: „Að nota samokaregluna og einfalda stæður með fleiri en einu margfeldi.“ Sambærilegt orðalag var lagað í fyrirsögnum, skýringu, gátlista og hugtakaskrá. Plús- og mínusmerkin í svigunum eru útskýrð beint við formúluna. Þetta breytir ekki stærðfræðinni eða viðurkenndum heitum á borð við summa, mismunur og margfeldi.
+
+Útreikningar, myndir, stíll, innsetningar, auðkenni og tenglaslóðir voru varðveitt. Vafrapróf stóðust á tölvu og síma, þar með talið breyttur hugtakatengill og til-baka-flakk. Prentútgáfan er áfram 61 síða. Textabreytingar í PDF eru á síðum 14, 16, 21, 57 og 60; allar þær síður voru myndaðar og skoðaðar. HTML, PDF og ZIP eru samræmd.
+
+MÁLFARSYFIRFERÐ Á ÖLLU VEFHEFTINU – 3. NÓVEMBER 2026
+Farið var yfir alla átta tímana, yfirlit, fyrirsagnir, verkefnafyrirmæli, gátlista og hugtakaskýringar. Klunnalegt og óljóst orðalag var einfaldað, meðal annars um innsetningu, þáttun, brot, jöfnulausnir og hlutföll. Sautján endurteknar skýringargreinar og ein tengd fyrirsögn voru felldar út. Nauðsynlegar fyrstu skýringar, verkefni og öll reikniskref haldast. Yfirferðin fylgir samþykktum orðalagsviðmiðum viðbótarinnar en er ekki staðfesting kennara á hverju nýju orðalagi.
+
+Allir útreikningar og MathML-hnútar eru orðrétt óbreyttir, svo og myndir, lokasvör, innsetningar, litir, myndbönd, innri auðkenni, tenglaslóðir, geymslulykill og allur stíll. Dæmin eru áfram 65 og fjögur dæmapör standa hlið við hlið. Uppfærslan breytir ekki viðbótinni sjálfri.
+
+Stílpróf útgáfu 1.0.16 stóðst með áður samþykktri yfirstrikun yfirfarinni sérstaklega. Mælingar á tölvu, síma og í prenti sýna jafnaðarmerki í línu, óskert reiknibil og enga yfirfyllingu síðunnar. Hugtakatenglar og til-baka-flakk, gátlistageymsla, lokaðir myndbandareitir og PDF-tengill voru prófuð. Prentútgáfan var endurgerð úr yfirförnu HTML og allar 61 Letter-síðurnar skoðaðar. HTML, PDF, leiðbeiningar og ZIP eru samræmd.
+
+PRÓFUN Á DÆMUM HLIÐ VIÐ HLIÐ OG SAMRÆMDRI JÖFNUN – 3. NÓVEMBER 2026
+Samkvæmt nýrri ósk kennara eru aðaljafnaðarmerki allra reiknilína í sýnidæmunum í lóðréttri línu, einnig í dæmum um einföldun stæðna. Reiknikeðjur voru brotnar á jafnaðarmerkjum, án breytinga á reikningum, tölum, formerkjum eða lokasvörum. Í löngum stæðum byrjar upphafsstæðan á sér línu og skrefin fylgja undir, með jafnaðarmerkin beint hvert undir öðru. Stuttar reglur og jöfnur inni í samfelldum texta halda uppsetningu sinni.
+
+Dæmapörin 12–13, 35–36, 43–44 og 59–60 standa hlið við hlið á stærri skjá og í PDF. Í síma raðast þau í einn dálk. Grunnletur og spássíur haldast; ekkert letur var smækkað. Þetta er prófun á vefnum samkvæmt beiðni kennara; viðbótinni sjálfri var ekki breytt.
+
+Allt efni 65 dæma, texti þeirra, útreikningar, innsettar tölur, lokasvör, myndir, myndbönd, auðkenni og gátlistageymsla voru borin saman við fyrri útgáfu og varðveitt. Mæld jöfnun jafnaðarmerkja er innan eins skjápunkts á tölvu, síma og í prentbirtingu. Engin yfirfylling er í dæmapörunum. Fáeinir langir reiknireitir geta skrunast innan eigin reits í síma; síðan sjálf yfirfyllist ekki. Prentútgáfan er 61 Letter-síða og öll dæmapörin halda saman á síðu. Allar síður voru skoðaðar og dæmapör einnig í stærri birtingu. Stílpróf 1.0.15 stóðst; nýr tvídálkastíll og áður heimiluð yfirstrikun voru yfirfarin sérstaklega. Tenglar, flakk til baka, gátlisti og myndbandareitir virka áfram, einnig án JavaScript þar sem við á. HTML, PDF og ZIP samræmd.
+
+UPPFÆRSLA EFTIR VIÐBÓT 1.0.15 – 3. NÓVEMBER 2026
+Vefheftið var samræmt nýjustu uppsetningar- og efnisviðmiðum Námsefnissmiðs – fastur Lota 28 stíll. Samþykktri viðbót um læsileg reiknibil var bætt við. Brot og veldi fá aukið rými án breytingar á grunnletri eða spássíum. Samfelld númerun 1–65, lóðrétt jafnaðarmerki, yfirstrikanir, grænblá innsetning og tvöföld undirstrikun lokasvara haldast. Myndir, myndbönd, geymslulykill gátlista og eldri tenglaauðkenni haldast.
+
+Efnis- og málfarsyfirferð: tilvísun í gamla dæmi 2D vísar nú í dæmi 17; leiðbeiningar um innsetningu taka til allra tölugilda; skýrt er hvaða tákn merkja flatarmál, grunnlínu og hæð. Orðalag um ummál, margföldun allra liða, styttingu, hlutfallaskiptingu og hæð þríhyrnings var lagað. Í dæmi 49 sést þátturinn 5 styttast út hægra megin. Prófun í dæmi 42 er í tveimur stuttum línum með fullum heitum hliðanna. Fyrirliggjandi skýringu í dæmi 58 var raðað við rétta reikniskrefið svo eðlileg síðuskipti séu möguleg.
+
+Öll 65 dæmi voru yfirfarin; lokasvör og innsett tölugildi haldast. Viðmið um hnitamyndir og rótartákn kalla ekki á breytingar í þessari lotu, þar sem slík viðfangsefni eru ekki til staðar. Ekki var bætt við óviðkomandi hugtökum eða aukaskilyrðum. Viðbótinni sjálfri var ekki breytt.
+
+Yfirferð: stílpróf 1.0.15 stóðst (samþykkt yfirstrikun yfirfarin sérstaklega). Vefur prófaður við 1360, 820 og 390 px og í prentbirtingu. Engin yfirfylling síðunnar; löngu reiknireitirnir í dæmum 45 og 54 skruna innan eigin reits í síma. Jafnaðarmerki í öllum jöfnulausnum eru í línu. Hugtakatenglar og flakk til baka, gátlistageymsla, PDF og lokaðir myndbandareitir prófuð; hugtök og myndbandareitir einnig án JavaScript. Prentútgáfan er 63 Letter-síður með óbreyttum spássíum og fæti. Allar síður skoðaðar, lykilsíður einnig í stærri birtingu. HTML, PDF og ZIP samræmd.
+
+YFIRFERÐ ORÐADÆMA OG INNSETNING · 13. OKTÓBER 2026
+Orðadæmin voru yfirfarin með tilliti til þess hvort nota þyrfti fundið breytugildi til að reikna aðra umbeðna stærð. Í dæmi 12 er nú sýnt w + 9 = (11) + 9 = 20 cm; í dæmi 61 x − 7 = (31) − 7 = 24 cm; í dæmi 65 eru 3a, 9a og 27a reiknuð með a = 8: 3(8) = 24, 9(8) = 72 og 27(8) = 216. Fyrsti hópurinn fær áfram 8 búta. Innsetningin er lituð og í svigum, lokasvör tvíundirstrikuð og aðaljafnaðarmerki í línu.
+
+Dæmi 56 og 57 sýndu þegar slíka innsetningu. Dæmi 9, 11 og 14 biðja um stæður án þess að finna tiltekið breytugildi. Í dæmum 10, 13, 62, 63 og 64 gefur lausn jöfnunnar umbeðna stærð beint; þar var engum aukareikningi eða prófun bætt við.
+
+Alls bættust við fimm sýnilegar innsetningar. Óbreytt eru verkefni, gefnar tölur, fyrri jöfnulausnir, myndir, myndbönd, númerun og tenglar. Vefurinn var yfirfarinn við 1360, 820 og 390 px og í prentun. Aðeins síður 10, 49 og 53 breyttust í 58 síðna PDF og voru skoðaðar. HTML, PDF og ZIP eru samræmd. Þessi yfirferð breytti ekki viðbótinni.
+
+INNSETNING Í DÆMI 56 OG FASTAR REGLUR · 13. OKTÓBER 2026
+Í dæmi 56 er nú sýnt hvernig x = 14 er sett í lengdarstæðuna: 2x + 5 = 2(14) + 5 = 33 m. Innsetta gildið (14) er grænblátt og lokasvarið 33 m er tvíundirstrikað. Jafnaðarmerki eru áfram í sömu lóðréttu línu. Aðrir reikningar eru óbreyttir. Vefbirting á tölvu, spjaldtölvu og síma var yfirfarin; aðeins síða 45 breyttist í 58 síðna prent-PDF.
+
+Viðbótin Námsefnissmiður — fastur Lota 28 stíll er nú í útgáfu 1.0.12. Samfelld númerun 1, 2, 3, … um allt heftið og engin óþörf bil innan samfelldra reikninga eru varanlegar reglur í næstu heftum. Innri tenglar haldast. Viðbótin skýrir líka að sýna skuli innsetningu þegar finna þarf aðra umbeðna stærð eftir að breytan hefur verið fundin.
+
+SAMFELLD NÚMERUN OG BIL Í LAUSNUM · 13. OKTÓBER 2026
+Dæmi vefheftisins eru nú númeruð samfellt 1–65. Innri auðkenni og tenglar haldast svo eldri bókamerki virki. Tilvísun í dæmi 5A í hugtakaskrá vísar nú á dæmi 34. Eldri númer í upprunagögnum og sögulegum kennaranótum lýsa fyrri útgáfum.
+
+Samfelldir reiknireitir voru sameinaðir á 49 stöðum í 28 dæmum til að fjarlægja óþarfa bil innan sömu lausnar. Eðlileg skil milli ólíkra jafna haldast. Endurtekin setning um stuðulinn 2 og reikningur hennar voru fjarlægð úr dæmi 54 (áður 7G); skrefið sést áfram í lausn fyrri jöfnunnar. Engu lausnarskrefi, lokasvari eða nákvæmu tölugildi var breytt.
+
+HTML og 58 síðna prent-PDF eru samræmd. Númerun, tenglar, lóðrétt jafnaðarmerki og birting á tölvu og síma voru yfirfarin. Viðbótin er áfram í útgáfu 1.0.11; þessi breyting var gerð á Lotu 16.
+
+TUGABROT MEÐ TVEIMUR AUKASTÖFUM · 13. OKTÓBER 2026
+Nákvæm töluleg brotasvör eru áfram sýnd og tugabroti með tveimur aukastöfum bætt við. Nálgunarmerkið ≈ er notað þegar gildið er námundað, t.d. 14/15 ≈ 0,93; jafnaðarmerki þegar tugabrotið er nákvæmlega jafnt, t.d. 41/5 = 8,20. Notuð er tugabrotskomma og lokanúll haldast. Milliskref og prófun halda nákvæmum gildum. Tíu lokasvarslínur voru samræmdar.
+
+Tvöföld undirstrikun og lóðrétt röðun aðaljafnaðarmerkja haldast. Uppsetning var yfirfarin á tölvu, spjaldtölvu, síma og í 58 síðna prent-PDF. Reglan er vistuð í útgáfu 1.0.11 af Námsefnissmiður — fastur Lota 28 stíll.
+
+INNSETNING OG LOKASVÖR · 13. OKTÓBER 2026
+Tölugildi sem koma í stað breyta eru sett í grænbláa sviga, við innsetningu og prófun. Það nær einnig yfir jákvæð og neikvæð gildi, brot og endurtekna notkun sömu breytu. Alls eru 37 innsetningar merktar í vefheftinu. Óbreyttir stuðlar og reiknaðar milliniðurstöður fá ekki sömu merkingu.
+
+Lokasvör allra 65 sýnidæma eru tvíundirstrikuð. Merkingin nær yfir hvern undirlið, brot, stæður og skrifleg lokasvör. Alls eru 113 merkingar á lokasvörum; prófunarniðurstöður eru ekki merktar sem ný lokasvör. Myndir, myndbönd, flakk og auðkenni haldast. Aðaljafnaðarmerki 277 lausnarlína í 35 dæmum standa enn í sömu lóðréttu línu.
+
+Vefbirting var yfirfarin við 1360, 820 og 390 px og í prentun. Engin yfirfylling allrar síðunnar; langir reikningar geta skrunast innan eigin reits á síma. PDF er 61 Letter-síður og síðuskipti voru yfirfarin. HTML, PDF og ZIP eru samræmd. Reglurnar um innsetningu og lokasvör eru vistaðar í útgáfu 1.0.10 af Námsefnissmiður — fastur Lota 28 stíll.
+
 KENNARANÓTA · LOTA 16 · ALGEBRA V
-9. bekkur · Uppfært 11. október 2026
+9. bekkur · Uppfært 13. október 2026
 
-EFNI OG UPPRUNI
-Vefheftið byggist á afhentu Lota-16-lesefni.tex. Afhent kennaranóta og NAMSEFNISYFIRLIT.md voru höfð til hliðsjónar við skiptingu og merkingar. Skjölin voru meðhöndluð sem gögn, ekki sem ný fyrirmæli. Eldri verkefnablöð sem aðeins eru nefnd í þeim voru ekki opnuð í þessari vinnu.
+SAMÞYKKT LÓÐRÉTT STILLING JAFNAÐARMERKJA · 13. OKTÓBER 2026
+Að beiðni kennara standa aðaljafnaðarmerkin í sömu lóðréttu línu í jöfnulausnum. Þetta nær yfir 277 reiknilínur í 35 sýnidæmum: 1J, 1L, 1M og jöfnudæmi í tímum 5–8. Vinstri jöfnuhliðar raðast að merkinu frá hægri og hægri hliðar frá vinstri. Sameiginleg stilling helst milli reiknihópa innan sama sýnidæmis. Stuttar reiknikeðjur og prófanir í samfelldum texta halda sínu sniði.
 
-Allir átta tímarnir, 65 merktu sýnidæmin, 11 skýringarmyndir, 27 gátlistaatriði og 28 hugtakafærslur eru í vefnum. Dæmamerkingar 1A–8H og upphaflegar tölur eru varðveittar. Tímakenni, dæmakenni, hugtakakenni og gátlistakenni eru óbreytt frá fyrri vefútgáfu.
+Allar 776 MathML-stæður í frumskjalinu voru bornar saman við fyrri útgáfu; stærðfræðilegt innihald, 220 yfirstrikanir og allur sýnilegur texti eru óbreytt. Myndir, myndbönd, auðkenni og gátlistageymsla haldast. Lóðrétt jöfnun jafnaðarmerkja var samþykkt og vistuð í útgáfu 1.0.9 af viðbótinni.
 
-MYNDBÖND VIÐ SÝNIDÆMI
-Öllum átta afhentum MP4-myndböndum úr Lota_16_myndbond hefur verið bætt við samsvarandi dæmi:
+Jafnaðarmerkin voru mæld í vafra við 1360, 820 og 390 px og í prentbirtingu: ekkert lárétt frávik innan hvers sýnidæmis. Engin yfirfylling allrar síðunnar; lengstu reiknihóparnir í 6B og 6E geta skrunast lárétt innan eigin reits á síma. Yfirfarin voru skjámyndir af stuttum jöfnum, brotum, yfirstrikunum og mynd samhliða lausn, ásamt öllum 58 PDF-síðum. Vefur, PDF og ZIP eru samræmd.
 
-Dæmi 1A: Mínus í margfeldi (1:09).
-Dæmi 2A: Margföldun tveggja sviga (1:40).
-Dæmi 3A: Samokaregla (1:28).
-Dæmi 4A: Ferningsreglan — hvaðan kemur miðliðurinn? (1:19).
-Dæmi 5A: Jafnvægi og jöfnur (1:26).
-Dæmi 6A: Óþekkt stærð báðum megin (1:36).
-Dæmi 7A: Jöfnur með brotum (1:28).
-Dæmi 8D: Frá orðadæmi að jöfnu (1:30).
+SAMÞYKKT ÞÉTTARI UPPSETNING · 13. OKTÓBER 2026
+Að beiðni kennara standa myndir við hlið skýringa í dæmum 2A, 8D og 8E á breiðum skjám og í prent-PDF. Við símabreidd raðast efnið í einn dálk. Breiðari myndir halda fyrri uppsetningu. Langur reikningur í 2A nýtir áfram alla textabreiddina.
 
-Myndbönd og forsýningarmyndir eru óbreytt afrit af afhentum skrám. Þau eru í lokuðum, smellanlegum reitum með sömu uppsetningu og myndböndin í Lotu 28. Þau hefjast aðeins við spilun. Stýringar vafrans eru notaðar, með tengli til að opna hvert myndband sérstaklega. Viðbótin er falin í prentun; núverandi prent-PDF er óbreytt.
+Auður jaðar utan um þessar þrjár myndir hefur verið minnkaður í birtingu; sjálfar SVG-myndskrárnar og allar merkingar þeirra eru óbreyttar. Texti, reikningar, yfirstrikanir, myndbönd og eldri auðkenni haldast. Myndbandareitir eru áfram lokaðir í upphafi. Kennari samþykkti þessa uppsetningu og hún er vistuð sem æskilegt val þar sem hún hentar í útgáfu 1.0.8 af viðbótinni. Hún er ekki skylduuppsetning fyrir allar myndir.
 
-Spilun og flakk innan allra átta myndbandanna voru prófuð. Birting var yfirfarin við 1360 px og 390 px. Engin yfirfylling, JavaScript-villa eða brotinn innri tengill fannst. Myndbandsgögn hlaðast ekki áður en spilun hefst. Opnun og lokun allra átta myndbandareita var prófuð, einnig með lyklaborði og án JavaScript. Ellefu tenglar með textanum „Skoða mynd stærri“ voru fjarlægðir. Merkingin „Án hljóðs“ við myndböndin var einnig fjarlægð að ósk kennara. Grunnstíll og prentuppsetning haldast óbreytt; myndbandareitirnir nýta fyrirliggjandi reit úr Lotu 28. Námsinnihald, formúlur, myndir og gátlistamerkingar haldast.
+Við 1360 px skjábreidd eru þessi dæmi um 37–39% lægri en áður. Birting var einnig yfirfarin við 390, 760 og 820 px; engin lárétt yfirfylling fannst. Allar PDF-síður voru yfirfarnar og nýja uppsetningin skoðuð sérstaklega á síðum 11, 49 og 50. PDF er áfram 61 Letter-síður. Stílprófun stenst þegar afmarkaðar, sérstaklega heimilaðar viðbætur eru teknar frá grunnsamanburði. Vefur, PDF og ZIP eru samræmd.
 
-ÓSKIR KENNARA OG FYRRI BREYTINGAR
-Fyrri textayfirferð beindist að óþarfa endurtekningum. 77 textabrot og áminningar voru stytt eða felld út, einkum endursögn sýnilegra reikniskrefa, endurteknar prófanir og útskýringar á aðferðum sem þegar höfðu verið kenndar. Texti sem endurtók skýringu inni á mynd var einnig felldur út. Textaorðum í meginmáli, að gátlista og hugtakaskrá meðtöldum, fækkar úr 4120 í 3249, um fimmtung. Skýringar á nýjum atriðum og helstu greinarmunur milli aðferða haldast. Öll 65 sýnidæmin, 359 reiknilínur, aðgerðir báðum megin og 220 yfirstrikanir eru óbreytt frá síðustu útgáfu. Myndir, stöðug auðkenni, hugtakaskrá og gátlisti haldast einnig. Stutt dæmi eru haldin saman við síðuskipti með fyrirliggjandi hópun heftisins.
+EINFALDARA ORÐALAG OG PRÓFUN · 13. OKTÓBER 2026
+Að beiðni kennara voru 21 textabrot um skilgreiningarskilyrði, leyfileg gildi eða rauntölur felld út eða einfölduð. Þar á meðal er athugasemdin um að brotastæðan í dæmi 1E sé aðeins skilgreind þegar x er ekki 4. Orðalagi gátlistans um leyfileg gildi var einnig sleppt. Skýring ferningsreglu nefnir nú mínusmerkið á undan miðliðnum án aukaskilyrðis um gildi breytanna.
 
-Hugtökin eru tvíliða, breytuliðir og líkir liðir. Orðalaginu „samoka tvíliðir“ er skipt út fyrir „summa og mismunur sömu stærða“. Hefðbundna heitið samokaregla er áfram notað fyrir regluna.
+Prófun er útskýrð við fyrstu notkun í dæmi 1D, sýnd með innsetningu tölunnar 7 og samanburði beggja hliða jöfnunnar í dæmi 5A og skilgreind í hugtakaskrá. Smellanleg heiti vísa á sömu skilgreiningu. Allar 360 reiknilínur, 220 yfirstrikanir, myndir og myndbönd eru óbreytt. Eldri auðkenni og gátlistageymsla haldast; hugtakatengill um nefnara var færður að fyrri skýringu í sama dæmi.
 
-Lausnir í 35 sýnidæmum voru útvíkkaðar. Milliskref sýna sömu aðgerð á báðum hliðum jafnaðarmerkisins og yfirstrikanir sýna styttingar eða liði sem gefa núll. Skýring greinir á milli þess að eyða samlagningarliðum og stytta sameiginlega þætti í teljara og nefnara. Alls eru 220 yfirstrikanir.
+Vefur, PDF og ZIP eru samræmd. Nýju hugtakatenglarnir og nákvæmt til-baka-flakk voru prófuð. Vefurinn var skoðaður við tölvu- og símabreidd og allar PDF-síður yfirfarnar eftir breytinguna.
 
-Ellefu SVG-myndir frá kennara úr möppunni Lota-16-myndir/svg koma í stað samsvarandi mynda. Skrárnar eru varðveittar óbreyttar. Þær eru í myndir-möppunni og birtast í efninu. Þær sömu birtast í prent-PDF.
+NÝJAR REGLUR Í FASTA LOTA 28 STÍLNUM
+Vefheftið og prent-PDF fylgja útgáfu 1.0.8 af viðbótinni Námsefnissmiður — fastur Lota 28 stíll. Grunnútlit og virkni eru varðveitt. Litir reikniaðgerða eru nú samræmdir: samlagning blá, frádráttur og mínusmerki rauð, margföldun græn, deiling og brotastrik fjólublá, veldisvísar og rótarmerki appelsínugul. Tölur, breytur, svigar og jafnaðarmerki halda hlutlausum lit. Ein litaskýring er við upphaf fyrsta tíma. Engin rótardæmi eru í þessu hefti.
 
-ÚTLIT OG AÐLÖGUN
-Samþykktur Lota 28 stíll er varðveittur. Eina viðbótin við stílinn teiknar umbeðnar yfirstrikanir á stærðfræðitákn. Letur, litir, breidd, fyrirsagnir, dæmareitir, flakk og prentreglur eru óbreytt. Hegðun og geymslulykillinn lota16-v1-2026-10-10 eru óbreytt; eldri gátlistamerkingar halda sér.
+Öll 65 sýnidæmin hafa skýrt verkefni. Stuttar skýringar tengja aðgerðir við tilgang þeirra og benda á formerki, stuðla eða aðra þætti sem skipta máli í dæminu. Við bætast fjórar ítarlegri innsetningar í margföldunarreglur og ein reiknilína. Fyrri stytting á endurtekningum er höfð til hliðsjónar.
 
-Stærðfræði er MathML með frumformúlum, tugabrotskommum, brotastrikum og veldum. Reikningar eru vinstrijafnaðir. Prent-PDF er myndað úr sama HTML og vefútgáfan.
+Orðalag er samræmt við nýjustu reglurnar: liðir sem má sameina hafa sama bókstafahluta og sömu veldisvísa. Stuðull er talan sem margfaldar bókstafahluta liðar. Notuð eru heitin tvíliða og breytuliðir, og orðalagið summa og mismunur sömu stærða. Heitið samokaregla er áfram notað. Stæður, fremur en svigatákn, eru hafnar í annað veldi.
 
-Engin heimaverkefnablöð voru búin til eða flutt inn úr Lotu 28. Upprunalegum LaTeX- og Overleaf-skrám var ekki breytt. Upprunalegt NAMSEFNISYFIRLIT.md fylgir óbreytt sem NAMSEFNISYFIRLIT-upprunalegt.md; það lýsir LaTeX-frumheftinu og getur haft eldra orðalag.
+VARÐVEITT EFNI OG VIRKNI
+Átta tímar, 65 sýnidæmi, 11 skýringarmyndir, 8 myndbönd, 27 gátlistaatriði og 29 hugtakafærslur. Alls eru 360 reiknilínur og 220 yfirstrikanir. Jöfnuskref sýna áfram sömu aðgerð báðum megin. Dæmamerkingar og öll eldri auðkenni eru varðveitt, ásamt geymslulyklinum lota16-v1-2026-10-10.
 
-YFIRFERÐ
-Við fyrri yfirferð voru 276 reiknilínur í 35 breyttum sýnidæmum sannreyndar með nákvæmum brotareikningi. Lausnamengi haldast rétt milli milliskrefa, einnig þegar lausn er engin eða öll rauntölugildi. Í þessari textastyttingu var staðfest að allar 359 reiknilínur vefheftisins væru óbreyttar frá þeirri útgáfu.
+Myndböndin eru við dæmi 1A, 2A, 3A, 4A, 5A, 6A, 7A og 8D. Þau eru í lokuðum reitum sem lesandi opnar og spilar sjálfur. Tenglar með textanum „Skoða mynd stærri“ og merkingin „Án hljóðs“ eru ekki í nemendaútgáfunni. Afhentar myndir, myndbönd og forsýningarmyndir eru óbreyttar.
 
-Grunnstíll, hegðun, kaflaröð, innri tenglar og vatnsmerki standast viðmið stílviðbótarinnar þegar afmörkuð yfirstrikunarviðbót er tekin frá í samanburði. Samanburður staðfestir sérstaklega að engin önnur stílbreyting varð. Allar ellefu myndirnar eru bætisama afrit af afhentum SVG-skrám.
+PRENTUN OG YFIRFERÐ
+PDF er myndað úr sama HTML og vefurinn og telur 61 Letter-síður. Dæmin haldast saman við síðuskipti með fyrirliggjandi hópun úr samþykkta stílnum. Smellileiðbeiningar hugtakaskrár birtast aðeins á vefnum. Myndböndin eru einnig aðeins í vefútgáfunni.
 
-Vafrayfirferð við 1360 px og 390 px: engin yfirfylling síðunnar, engin JavaScript-villa, engin óþekkt stærðfræðiskipun og engir brotnir innri tenglar. Hugtakaflakk og nákvæmt til-baka-flakk voru prófuð. Gátlisti heldur merkingum við endurhleðslu og virkar einnig meðan síðan er opin þótt vafrageymsla sé lokuð. Texti, skilgreiningar og innri tenglar virka án JavaScript.
+Allar PDF-síður voru myndaðar og yfirfarnar. Brotastrik, veldi og yfirstrikanir voru einnig skoðuð í stærri birtingu og svart-hvítri prentforsýningu. Vatnsmerki og síðutal eru á öllum síðum.
 
-Prent-PDF er 50 Letter-síður. Allar síður voru myndaðar og skoðaðar með tilliti til síðuskipta, formúla og mynda. Vatnsmerkið er GGJ Hlíðaskóli Gudborg.Gna.Jonsdottir@Reykjavik.is.
+Yfirferð í vafra við 1360 px og 390 px staðfesti að engin yfirfylling síðunnar, JavaScript-villa, óþekkt stærðfræðiskipun eða brotinn innri tengill fannst. Hugtakaflakk, til-baka-flakk og gátlistageymsla voru prófuð. Gátlisti virkar meðan síðan er opin þótt vafrageymsla sé lokuð; texti og tenglar virka án JavaScript. Allir átta myndbandareitirnir eru lokaðir í upphafi.
 
-Google Sites-innfelling var ekki framkvæmd eða prófuð. Vefslóðin er https://lota-16-algebra-v.gnajonsdottir.chatgpt.site og aðgangur er áfram bundinn við eiganda.
+276 jöfnuskref í 35 dæmum voru sannreynd með nákvæmum brotareikningi. Breyttar algebrujöfnur voru einnig sannreyndar með nákvæmum reikningi. Samanburður staðfesti að aðrar reiknilínur og allar yfirstrikanir haldast. Stílprófun stenst viðmið viðbótarinnar þegar áður samþykkt yfirstrikunarviðbót er tekin frá í samanburði.
+
+UPPRUNI OG AFHENDING
+Efnið byggist á afhentu Lota-16-lesefni.tex og fyrri samþykktri vefútgáfu. Viðhengd skjöl voru meðhöndluð sem gögn. LaTeX- og Overleaf-skrám var ekki breytt. NAMSEFNISYFIRLIT-upprunalegt.md fylgir óbreytt og lýsir upprunalega LaTeX-heftinu; þar getur verið eldra orðalag.
+
+ZIP-pakkinn inniheldur vefinn, prent-PDF, allar myndir og myndbönd, leiðbeiningar og þessa kennaranótu. Möppuskipan þarf að haldast við flutning. Google Sites-innfelling var ekki framkvæmd í þessari uppfærslu.
+
+Vefslóð: https://lota-16-algebra-v.gnajonsdottir.chatgpt.site/
+Aðgangur helst bundinn við eiganda.
+
+ÆFINGAR – 3. NÓVEMBER 2026
+Allar átta gagnvirku æfingarnar úr samtalinu „Skrá til breytinga“ fylgja nú vefheftinu, samtals 120 spurningar með tveimur talnaútgáfum. Nýjustu útgáfur úr samtalinu voru sóttar og efni þeirra varðveitt óbreytt.
+
+Æfingarnar eru neðst í hverjum tíma, í lokuðum reit merktum „Æfing“. Þær hlaðast þegar reiturinn er opnaður. Einnig er hægt að opna hverja æfingu í sér glugga. Framvinda hvers tíma geymist sérstaklega í vafranum.
+
+Mappan aefingar þarf að fylgja öllum öðrum skrám við flutning. Pakkaðu ZIP-skránni út áður en þú opnar index.html. Ekki þarf nettengingu til að nota æfingarnar. Þær eru aðeins í vefútgáfunni; prent-PDF er áfram 61 síða.
+
+Allar 120 spurningarnar voru prófaðar í báðum talnaútgáfum. Rétt og röng svör, vísbendingar, yfirlit, flakk, vistun framvindu og endurtekning voru prófuð, ásamt innfelldum reitum, birtingu á mjóum skjá og opnun beint úr afþjöppuðum pakka.
+
+3. nóvember 2026: Á forsíðunni er nú reiturinn „Æfingar lotunnar“, með hnöppum fyrir tíma 1–8 eins og í Lotu 15. Hver hnappur opnar æfinguna neðst í viðeigandi kafla. Tenglar voru prófaðir í tölvu, á mjóum skjá og úr afþjöppuðum pakka.

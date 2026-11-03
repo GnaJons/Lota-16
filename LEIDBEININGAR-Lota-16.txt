@@ -1,6 +1,6 @@
 LOTA 16 · ALGEBRA V
 
-Opnaðu index.html í nýlegum vafra. Hafðu lota16-prent.pdf og möppurnar myndir og myndbond við hlið HTML-skrárinnar. Allar skrárnar þurfa að fylgja vefnum.
+Opnaðu index.html í nýlegum vafra. Hafðu lota16-prent.pdf og möppurnar myndir, myndbond og aefingar við hlið HTML-skrárinnar. Allar skrárnar þurfa að fylgja vefnum.
 
 MYNDBÖND
 Átta myndbönd eru við dæmi 1A, 2A, 3A, 4A, 5A, 6A, 7A og 8D. Myndböndin eru í lokuðum reitum eins og í Lotu 28. Smelltu á fyrirsögnina „Myndband“ til að opna reitinn og ýttu síðan á spilun. Stýringar vafrans bjóða upp á pásu, flakk og fullan skjá. Myndböndin hefjast ekki sjálfkrafa. Tengill við hvert myndband opnar það í sérglugga. Þau eru aðeins í vefútgáfunni.
@@ -10,13 +10,55 @@ Yfirlitið vísar á alla átta tímana. Neðst í hverjum tíma eru tenglar á 
 Gátlistinn hefur 27 atriði. Merkingar geymast í þeim vafra og á því tæki sem er notað. Þær eru ekki sendar til kennara. Ef vafrageymsla er lokuð virkar gátlistinn áfram meðan síðan er opin, en merkingar geymast ekki við endurhleðslu.
 
 PRENTUN
-Notaðu lota16-prent.pdf fyrir prentun. Skráin er 50 Letter-síður með sama efni, föstum spássíum, vatnsmerki og síðutali. Veldu Letter og 100% stærð. Ef prentað er á A4 má velja að laga að blaðinu.
+Notaðu lota16-prent.pdf fyrir prentun. Skráin er 61 Letter-síður með sama efni, föstum spássíum, vatnsmerki og síðutali. Veldu Letter og 100% stærð. Ef prentað er á A4 má velja að laga að blaðinu.
 
 FLUTNINGUR OG GOOGLE SITES
 ZIP-pakkinn geymir index.html, prent-PDF, myndir, öll átta myndböndin með forsýningarmyndum, kennaranótu, þessar leiðbeiningar og upprunalegt námsefnisyfirlit. Stíll, formúlur og virkni eru innbyggð í HTML. Ekki þarf ytri leturþjónustu.
 
-Fyrir hýsingu skal flytja index.html, lota16-prent.pdf, myndir og myndbond saman og varðveita möppuskipan. Innfelling vefs í Google Sites krefst slóðar sem nemendur hafa aðgang að og hýsingar sem leyfir innfellingu. Vefurinn var ekki settur inn í Google Sites í þessu verkefni.
+Fyrir hýsingu skal flytja index.html, lota16-prent.pdf, myndir, myndbond og aefingar saman og varðveita möppuskipan. Innfelling vefs í Google Sites krefst slóðar sem nemendur hafa aðgang að og hýsingar sem leyfir innfellingu. Vefurinn var ekki settur inn í Google Sites í þessu verkefni.
 
 VEFSLÓÐ
 https://lota-16-algebra-v.gnajonsdottir.chatgpt.site
 Vefurinn er með einkaaðgangi eiganda. Ekki hefur verið opnað fyrir nemendaaðgang.
+
+UPPFÆRSLA 13. OKTÓBER 2026
+Vefurinn og PDF fylgja útgáfu 1.0.8 af föstum Lota 28 stíl. Reikniaðgerðir eru litakóðaðar og litaskýring er í fyrsta tíma. Öll sýnidæmi hafa skýrt verkefni; skýringar við skref eru stuttar og tengdar viðkomandi dæmi.
+
+Prófun er nú skilgreind í hugtakaskrá og útskýrð með dæmi 5A. Aukatexti um skilgreiningarskilyrði og leyfileg gildi hefur verið felldur út eða einfaldaður.
+
+Myndir í dæmum 2A, 8D og 8E standa nú við hlið skýringa á breiðum skjám og í prent-PDF. Á síma raðast efnið í einn dálk.
+
+Jafnaðarmerki í jöfnulausnum eru nú stillt í sömu lóðréttu línu innan hvers sýnidæmis. Uppsetningin er samþykkt og vistuð í viðbótinni. Myndir við hlið texta eru einnig vistaðar sem æskilegt val í viðbótinni fyrir næstu vefhefti.
+
+Tölugildi sem koma í stað breyta við innsetningu og prófun eru í grænbláum svigum. Tvær línur eru undir lokasvörum. Báðar reglur eru vistaðar í útgáfu 1.0.10 af viðbótinni.
+
+Tölulegum brotasvörum fylgir nú tugabrot með tveimur aukastöfum, með ≈ fyrir nálgun og = fyrir nákvæm jafngildi. Nákvæma svarið helst með. Reglan er vistuð í útgáfu 1.0.11 af viðbótinni.
+
+Dæmin eru númeruð samfellt 1–65. Bil innan samfelldra lausna hafa verið þétt og endurtekinn texti í dæmi 54 tekinn út. Eldri innri tenglar virka áfram.
+
+Dæmi 56 sýnir nú innsetninguna 2(14) + 5 við útreikning lengdarinnar. Samfelld númerun og eðlileg bil innan lausna eru vistuð í viðbótinni, útgáfu 1.0.12.
+
+Orðadæmi 12, 61 og 65 sýna nú innsetningu fundins breytugildis við útreikning annarra umbeðinna stærða. Innsettar tölur eru í lituðum svigum.
+
+3. nóvember 2026: Vefheftið fylgir nú viðbót 1.0.15, með læsilegri reiknibilum og yfirförnu orðalagi. Samræmd prentútgáfa er 63 síður.
+
+3. nóvember 2026: Jafnaðarmerki eru samræmd í öllum sýnidæmum. Dæmi 12–13, 35–36, 43–44 og 59–60 eru hlið við hlið á stærri skjá og í prentun, en í einum dálki í síma. Núverandi prentútgáfa er 61 síða.
+
+3. nóvember 2026: Málfarsyfirferð á öllu heftinu. Orðalag einfaldað og endurteknar skýringar styttar. Útreikningar og samþykkt uppsetning haldast; samræmd prentútgáfa er 61 síða.
+
+3. nóvember 2026: Orðalag um samokareglu einfaldað samkvæmt ábendingu kennara, í vefhefti og prentútgáfu.
+
+3. nóvember 2026: Íslenska yfirfarin aftur í öllu heftinu, gátlista og hugtakaskrá. Skýringar endurorðaðar þar sem þær voru stirðar eða óljósar. Vefútgáfa og prentútgáfa samræmd.
+
+3. nóvember 2026: Texti við mynd seinni ferningsreglunnar fjarlægður. Fyrirsögn dæmis 37: Stuðlar sem eru tugabrot.
+
+ÆFINGAR – 3. NÓVEMBER 2026
+Allar átta gagnvirku æfingarnar úr samtalinu „Skrá til breytinga“ fylgja nú vefheftinu, samtals 120 spurningar með tveimur talnaútgáfum. Nýjustu útgáfur úr samtalinu voru sóttar og efni þeirra varðveitt óbreytt.
+
+Æfingarnar eru neðst í hverjum tíma, í lokuðum reit merktum „Æfing“. Þær hlaðast þegar reiturinn er opnaður. Einnig er hægt að opna hverja æfingu í sér glugga. Framvinda hvers tíma geymist sérstaklega í vafranum.
+
+Mappan aefingar þarf að fylgja öllum öðrum skrám við flutning. Pakkaðu ZIP-skránni út áður en þú opnar index.html. Ekki þarf nettengingu til að nota æfingarnar. Þær eru aðeins í vefútgáfunni; prent-PDF er áfram 61 síða.
+
+Allar 120 spurningarnar voru prófaðar í báðum talnaútgáfum. Rétt og röng svör, vísbendingar, yfirlit, flakk, vistun framvindu og endurtekning voru prófuð, ásamt innfelldum reitum, birtingu á mjóum skjá og opnun beint úr afþjöppuðum pakka.
+
+3. nóvember 2026: Á forsíðunni er nú reiturinn „Æfingar lotunnar“, með hnöppum fyrir tíma 1–8 eins og í Lotu 15. Hver hnappur opnar æfinguna neðst í viðeigandi kafla. Tenglar voru prófaðir í tölvu, á mjóum skjá og úr afþjöppuðum pakka.
