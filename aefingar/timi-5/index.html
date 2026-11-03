@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="is"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lota 16 · 5. tími · Jöfnur</title><style>html,body{margin:0;padding:0;background:#f9f8f4}body{display:flow-root}</style></head><body>
+<style>
+#ggj-lota16-timi5 *{box-sizing:border-box}#ggj-lota16-timi5{--paper:#f9f8f4;--ink:#24343b;--muted:#647178;--line:#dce1df;--blue:#176c9b;--blue-pale:#eaf3f8;--orange:#ac572e;--green:#286751;--green-pale:#edf5ed}#ggj-lota16-timi5{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 "Aptos","Segoe UI",sans-serif}#ggj-lota16-timi5 button,#ggj-lota16-timi5 input{font:inherit}#ggj-lota16-timi5 button{cursor:pointer}#ggj-lota16-timi5 button:disabled{cursor:default;opacity:.45}#ggj-lota16-timi5 button:focus-visible,#ggj-lota16-timi5 input:focus-visible,#ggj-lota16-timi5 [role=button]:focus-visible{outline:3px solid #ba662e;outline-offset:4px}#ggj-lota16-timi5 button{transition:background .15s,border-color .15s}#ggj-lota16-timi5 .top{height:94px;max-width:1100px;margin:auto;padding:0 36px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}#ggj-lota16-timi5 .brand{display:flex;align-items:center;gap:13px}#ggj-lota16-timi5 .brand strong{display:block;font-size:17px;font-weight:650;letter-spacing:-.3px}#ggj-lota16-timi5 .brand span{font-size:12px;color:var(--muted);letter-spacing:.8px}#ggj-lota16-timi5 button.quiet{border:0;background:transparent;color:var(--muted);padding:10px 0;font-size:14px}#ggj-lota16-timi5 .quiet span{margin-left:12px}#ggj-lota16-timi5 .quiet:hover{color:var(--ink)}#ggj-lota16-timi5 main{max-width:860px;margin:0 auto;padding:25px 34px 12px}#ggj-lota16-timi5 .progress-row{display:flex;justify-content:space-between;font-size:11px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin:0 0 10px}#ggj-lota16-timi5 .progress{display:flex;gap:6px}#ggj-lota16-timi5 .progress i{height:4px;flex:1;background:#e0e4e0;border-radius:3px}#ggj-lota16-timi5 .progress i.done{background:#588b73}#ggj-lota16-timi5 .progress i.current{background:var(--blue)}#ggj-lota16-timi5 #exercise{padding-top:30px}#ggj-lota16-timi5 h1{font-size:clamp(25px,3vw,34px);line-height:1.2;letter-spacing:-.8px;font-weight:650;margin:0 0 12px}#ggj-lota16-timi5 h2{font-size:23px;line-height:1.3;letter-spacing:-.4px;margin:0}#ggj-lota16-timi5 .eyebrow{font-size:11px;color:var(--orange);text-transform:uppercase;letter-spacing:1.8px;font-weight:650;margin-bottom:12px}#ggj-lota16-timi5 .intro{font:19px/1.5 Cambria,Georgia,serif;margin:0;max-width:700px;color:#48575d}#ggj-lota16-timi5 .board{margin:20px 0 18px;min-height:260px;background:#fff;border:1px solid #e4e6e1;border-radius:10px;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}#ggj-lota16-timi5 .board svg{width:100%;max-width:520px;max-height:310px;display:block}#ggj-lota16-timi5 .board-note{position:absolute;bottom:10px;left:16px;font-size:11px;color:#7b8589}#ggj-lota16-timi5 .figure-label{font:18px Cambria,Georgia,serif;fill:#263941;paint-order:stroke;stroke:white;stroke-width:5;stroke-linejoin:round}#ggj-lota16-timi5 .vertex-label{font-size:14px;font-style:italic;fill:#5c6b71;paint-order:stroke;stroke:#fff;stroke-width:4}#ggj-lota16-timi5 .edge-hit{cursor:pointer}#ggj-lota16-timi5 .edge-hit:focus-visible{outline:none}#ggj-lota16-timi5 .edge-hit:focus-visible .edge{stroke:var(--orange);stroke-width:6}#ggj-lota16-timi5 .edge{stroke:#425963;stroke-width:2.5;fill:none;stroke-linecap:round;transition:stroke .2s}#ggj-lota16-timi5 .edge.selected{stroke:var(--blue);stroke-width:5}#ggj-lota16-timi5 .edge-hit:hover .edge{stroke:var(--blue)}#ggj-lota16-timi5 .point-button{cursor:pointer}#ggj-lota16-timi5 .point-button circle{fill:#fff;stroke:#526d78;stroke-width:2}#ggj-lota16-timi5 .point-button.selected circle{fill:var(--blue);stroke:var(--blue)}#ggj-lota16-timi5 .choices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}#ggj-lota16-timi5 .choice{padding:14px 16px;border:1px solid #d6dddf;border-radius:7px;background:#fff;text-align:left;display:flex;align-items:center;gap:12px;color:var(--ink);min-height:57px}#ggj-lota16-timi5 .choice:hover{border-color:#91acba;background:#f4f8fa}#ggj-lota16-timi5 .choice.selected{border-color:var(--blue);background:var(--blue-pale);box-shadow:inset 0 0 0 1px var(--blue)}#ggj-lota16-timi5 .choice.correct{border-color:var(--green);background:var(--green-pale)}#ggj-lota16-timi5 .choice .letter{border:1px solid #d8dfe0;border-radius:4px;width:23px;height:23px;display:inline-flex;align-items:center;justify-content:center;font:11px "Segoe UI",sans-serif;color:var(--muted);flex-shrink:0}#ggj-lota16-timi5 .choice .math{font:21px Cambria,Georgia,serif}#ggj-lota16-timi5 .choice .math sup{font-size:13px}#ggj-lota16-timi5 .input-row{display:flex;align-items:center;gap:12px;justify-content:center;padding:7px}#ggj-lota16-timi5 .input-row label{font:26px Cambria,Georgia,serif}#ggj-lota16-timi5 .input-row input{width:154px;padding:13px;text-align:center;border:1.5px solid #abb9bf;border-radius:7px;background:#fff;font:26px Cambria,Georgia,serif;color:var(--ink)}#ggj-lota16-timi5 .input-row input:focus{border-color:var(--blue)}#ggj-lota16-timi5 .input-row .unit{font:22px Cambria,Georgia,serif}#ggj-lota16-timi5 .input-help{text-align:center;font-size:12px;color:var(--muted);margin:8px 0 0}#ggj-lota16-timi5 .feedback,#ggj-lota16-timi5 .hint-box{padding:14px 18px;border-radius:6px;font-size:15px;line-height:1.55;margin-top:16px}#ggj-lota16-timi5 .feedback{background:#fcf0e5;border-left:3px solid #c47b43}#ggj-lota16-timi5 .feedback.success{background:#eef5ed;border-left-color:var(--green)}#ggj-lota16-timi5 .feedback strong{display:block;margin-bottom:3px;color:var(--ink)}#ggj-lota16-timi5 .hint-box{background:#edf3f6;border-left:3px solid #98b5c5}#ggj-lota16-timi5 .hint-box strong{font-size:12px;letter-spacing:.4px;text-transform:uppercase;display:block;margin-bottom:4px}#ggj-lota16-timi5 .bottom{display:flex;justify-content:space-between;align-items:center;margin-top:25px;padding-top:20px;border-top:1px solid var(--line);gap:10px}#ggj-lota16-timi5 .actions{display:flex;gap:13px;align-items:center}#ggj-lota16-timi5 .primary{background:#264d60;color:#fff;border:1px solid #264d60;border-radius:6px;padding:13px 22px;font-size:14px;font-weight:600;min-width:150px}#ggj-lota16-timi5 .primary:hover{background:#173d50}#ggj-lota16-timi5 .primary span{margin-left:16px}#ggj-lota16-timi5 .hint-button{border:0;background:transparent;color:#687a83;font-size:13px;padding:12px 8px}#ggj-lota16-timi5 .hint-button:hover{color:var(--blue)}#ggj-lota16-timi5 .hint-button span{margin-left:5px}#ggj-lota16-timi5 .footnote{text-align:center;font-size:10px;color:#7d898e;margin:25px 0 8px;letter-spacing:.2px}#ggj-lota16-timi5 .footnote span{margin-left:9px}#ggj-lota16-timi5 dialog{border:1px solid #dce1df;border-radius:12px;max-width:530px;width:calc(100% - 32px);padding:26px;background:var(--paper);color:var(--ink);box-shadow:0 15px 65px #23374125}#ggj-lota16-timi5 dialog::backdrop{background:#20343f55}#ggj-lota16-timi5 .dialog-head{display:flex;justify-content:space-between;align-items:center}#ggj-lota16-timi5 .icon-button{border:0;background:transparent;font-size:27px;color:var(--muted)}#ggj-lota16-timi5 .muted{color:var(--muted);font-size:14px}#ggj-lota16-timi5 .outline-item{width:100%;border:0;border-top:1px solid var(--line);background:transparent;padding:12px 5px;display:flex;gap:14px;text-align:left;align-items:center;color:var(--ink)}#ggj-lota16-timi5 .outline-item:hover{background:#e9f0f0}#ggj-lota16-timi5 .outline-item span{width:23px;color:var(--blue)}#ggj-lota16-timi5 .outline-item small{margin-left:auto;font-size:11px;color:var(--green)}#ggj-lota16-timi5 .storage-note{font-size:11px;color:var(--muted);margin:20px 0 0}#ggj-lota16-timi5 .triple{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;padding:40px}#ggj-lota16-timi5 .triple span{display:block;text-align:center;font:39px Cambria,Georgia,serif;border-bottom:2px solid #d9e6eb;padding:20px 20px 13px}#ggj-lota16-timi5 .triple small{display:block;font:12px "Segoe UI",sans-serif;color:var(--muted);margin:9px 0 0}#ggj-lota16-timi5 .mini-equation{font:25px Cambria,Georgia,serif;text-align:center;padding:0 20px 30px;color:var(--blue)}#ggj-lota16-timi5 .number-board{display:block;width:100%}#ggj-lota16-timi5 .rotate-badge{position:absolute;top:15px;right:15px;font-size:11px;color:var(--blue);background:var(--blue-pale);padding:5px 9px;border-radius:4px}#ggj-lota16-timi5 .summary{text-align:center;padding:28px 0}#ggj-lota16-timi5 .summary .seal{display:inline-flex;align-items:center;justify-content:center;border:1px solid #97b8a6;color:var(--green);border-radius:50%;width:65px;height:65px;font-size:31px;margin-bottom:24px}#ggj-lota16-timi5 .summary .intro{margin:auto}#ggj-lota16-timi5 .summary-list{max-width:440px;margin:25px auto;text-align:left;list-style:none;padding:0}#ggj-lota16-timi5 .summary-list li{padding:9px 0;border-bottom:1px solid var(--line);font-size:15px}#ggj-lota16-timi5 .summary-list li:before{content:'✓';color:var(--green);margin-right:14px}#ggj-lota16-timi5 .summary .primary{margin:15px}#ggj-lota16-timi5 .callout{font-size:13px;color:var(--muted);text-align:center;margin:12px 0}#ggj-lota16-timi5 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}@media(max-width:600px){#ggj-lota16-timi5 .top{height:78px;padding:0 18px}#ggj-lota16-timi5 .brand strong{font-size:15px}#ggj-lota16-timi5 .brand svg{width:27px}#ggj-lota16-timi5 main{padding:20px 18px 10px}#ggj-lota16-timi5 #exercise{padding-top:23px}#ggj-lota16-timi5 .intro{font-size:18px}#ggj-lota16-timi5 .board{margin-top:18px;min-height:225px}#ggj-lota16-timi5 .board svg{max-height:265px}#ggj-lota16-timi5 .choices{gap:8px}#ggj-lota16-timi5 .choice{padding:12px 10px;font-size:14px;gap:8px}#ggj-lota16-timi5 .choice .math{font-size:19px}#ggj-lota16-timi5 .bottom{margin-top:20px}#ggj-lota16-timi5 .actions{gap:5px}#ggj-lota16-timi5 .primary{padding:12px 14px;min-width:125px}#ggj-lota16-timi5 .primary span{margin-left:6px}#ggj-lota16-timi5 .hint-button{font-size:12px;padding:9px 4px}#ggj-lota16-timi5 .triple{gap:5px;padding:25px 10px}#ggj-lota16-timi5 .triple span{font-size:30px;padding:14px}#ggj-lota16-timi5 .footnote span{display:block;margin:2px 0 0}}@media(prefers-reduced-motion:reduce){#ggj-lota16-timi5 *{transition:none!important;animation:none!important}}
+#ggj-lota16-timi5{background:#f9f8f4;color:#24343b;font:16px/1.5 Aptos,"Segoe UI",sans-serif;min-width:0;overflow-wrap:break-word}
+#ggj-lota16-timi5 .top{height:auto;min-height:82px;padding:16px 26px;gap:14px}
+#ggj-lota16-timi5 .brand strong{line-height:1.2}
+#ggj-lota16-timi5 main{padding-top:22px}
+#ggj-lota16-timi5 .board.algebra-board{min-height:134px;padding:20px 22px}
+#ggj-lota16-timi5 .board.figure-board{min-height:190px}
+#ggj-lota16-timi5 .equation{font:clamp(22px,4.6vw,30px)/1.65 Cambria,Georgia,serif;color:#073b63;max-width:100%;text-align:center}
+#ggj-lota16-timi5 .word-board{font:21px/1.65 Cambria,Georgia,serif;max-width:640px;width:100%}
+#ggj-lota16-timi5 .math{font-family:Cambria,Georgia,serif}
+#ggj-lota16-timi5 .math i,#ggj-lota16-timi5 .equation i,#ggj-lota16-timi5 .math-steps i{font-style:italic}
+#ggj-lota16-timi5 .choice{min-height:62px}
+#ggj-lota16-timi5 .choice .math{font-size:20px;line-height:1.5}
+#ggj-lota16-timi5 .math-steps{font:20px/1.8 Cambria,Georgia,serif;color:#073b63;margin:8px 0}
+#ggj-lota16-timi5 .math-steps>div{min-height:1.8em}
+#ggj-lota16-timi5 .fraction{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;line-height:1.4;margin:0 .18em}
+#ggj-lota16-timi5 .fraction>span{display:block;padding:0 .24em}
+#ggj-lota16-timi5 .fraction>span:first-child{border-bottom:1.4px solid currentColor}
+#ggj-lota16-timi5 .answer-field>label{display:block;text-align:center;font:19px Cambria,Georgia,serif;margin-bottom:5px}
+#ggj-lota16-timi5 .input-row input{max-width:100%;width:180px}
+#ggj-lota16-timi5 .hint-box p,#ggj-lota16-timi5 .feedback p{margin:8px 0 0}
+#ggj-lota16-timi5 .summary-list li{display:flex;justify-content:space-between;gap:8px}
+#ggj-lota16-timi5 .summary-list li:before{content:none}
+#ggj-lota16-timi5 .summary-list li.finished span{color:#286751}
+#ggj-lota16-timi5 .summary-list li.unfinished span{color:#647178}
+#ggj-lota16-timi5 .primary{background:#176c9b;border-color:#176c9b}
+#ggj-lota16-timi5 .primary:hover{background:#11567e}
+#ggj-lota16-timi5 .svg-note{font:13px Aptos,"Segoe UI",sans-serif;fill:#647178}
+#ggj-lota16-timi5 .figure-label{font-size:22px}
+#ggj-lota16-timi5 dialog{max-height:85vh;overflow:auto}
+#ggj-lota16-timi5 [hidden]{display:none!important}
+@media(max-width:540px){
+#ggj-lota16-timi5 .choices{grid-template-columns:1fr}
+#ggj-lota16-timi5 .top{padding:15px 18px}
+#ggj-lota16-timi5 .board.algebra-board{min-height:110px;padding:15px}
+#ggj-lota16-timi5 .word-board{font-size:19px}
+#ggj-lota16-timi5 .bottom{flex-wrap:wrap}
+#ggj-lota16-timi5 .actions{flex:1;justify-content:flex-end;flex-wrap:wrap}
+#ggj-lota16-timi5 .math-steps{font-size:18px}
+#ggj-lota16-timi5 .progress-row{font-size:10px;letter-spacing:.6px}
+#ggj-lota16-timi5 .outline-item{gap:8px;font-size:14px}
+#ggj-lota16-timi5 .outline-item small{white-space:nowrap}
+}
+
+#ggj-lota16-timi5 .choice .math{min-width:0;overflow-wrap:anywhere}#ggj-lota16-timi5 .footnote{overflow-wrap:anywhere}@media print{#ggj-lota16-timi5 .footnote{color:#777;font-size:9pt}}
+#ggj-lota16-timi5 .equation{overflow-wrap:anywhere}#ggj-lota16-timi5 .math-steps{overflow-wrap:anywhere}#ggj-lota16-timi5 .fraction{white-space:nowrap}
+</style>
+
+<div id="ggj-lota16-timi5" lang="is">
+<header class="top"><div class="brand"><div><strong>Jöfnur</strong><span>Lota 16 · 5. tími</span></div></div><button type="button" class="quiet" id="outline">Yfirlit ☰</button></header>
+<main>
+<div class="progress-row"><span id="stepcount"></span><span id="subcount"></span></div>
+<div id="progress" class="progress" role="progressbar" aria-label="Framvinda" aria-valuemin="0"></div>
+<section id="exercise" aria-labelledby="heading"><h1 id="heading">Jöfnur</h1><p class="intro">Æfingin hleðst hér. Ef hún birtist ekki skaltu opna síðuna aftur.</p></section>
+<div id="feedback" aria-live="polite" aria-atomic="true"></div><div id="hints" aria-live="polite" aria-atomic="true"></div>
+<div class="bottom"><button type="button" id="back" class="quiet">← Til baka</button><div class="actions"><button type="button" id="hint" class="hint-button">Vísbending ↗</button><button type="button" id="check" class="primary">Athuga svar →</button></div></div>
+<p class="footnote">GGJ · Hlíðaskóli · <span>Gudborg.Gna.Jonsdottir@Reykjavik.is</span></p>
+<noscript><p>Kveikt þarf að vera á JavaScript til að svara æfingunni.</p></noscript>
+</main>
+<dialog id="outlineDialog" aria-labelledby="outlineTitle"><div class="dialog-head"><h2 id="outlineTitle">Æfingin þín</h2><button type="button" id="closeDialog" class="icon-button" aria-label="Loka yfirliti">×</button></div><p class="muted">Veldu hluta til að halda áfram eða skoða aftur.</p><div id="outlineItems"></div><p id="storageNote" class="storage-note"></p></dialog>
+</div>
+<script>
+(function(){'use strict';
+
+const VERSION=1,KEY='ggj-lota16-timi05-aefing-v1';
+const GROUPS=['Jafnvægi í jöfnu','Röð og neikvæð svör','Margföldun og deiling','Tugabrot og brotastrik','Stuðlar minni og stærri en einn'];
+const fmt=n=>String(Math.round(n*1e10)/1e10).replace('.',',').replace(/-/g,'−');
+const v=s=>'<i>'+s+'</i>';
+const pow=s=>v(s)+'<sup>2</sup>';
+function poly(terms){let out='';for(const [n,s] of terms){if(!n)continue;let a=Math.abs(n),body=(a===1&&s?'':fmt(a))+s;out+=(out?(n<0?' − ':' + '):(n<0?'−':''))+body;}return out||'0';}
+const PX=(a,b,c=0)=>poly([[a,pow('x')],[b,v('x')],[c,'']]);
+const LX=(a,b)=>poly([[a,v('x')],[b,'']]);
+const frac=(a,b)=>'<span class="fraction"><span>'+a+'</span><span>'+b+'</span></span>';
+const eqs=(start,...lines)=>'<div class="math-steps"><div>'+start+'</div>'+lines.map(s=>'<div>= '+s+'</div>').join('')+'</div>';
+function build(seed=0){
+ const p=seed%2===0?
+ {add:[9,23],subtract:[8,17],reverse:[12,19],negative:[-22,8],multiply:[7,-56],divide:[4,-6],decimal:[2.4,14.4],reverseFraction:[7,0.3],hundred:[100,0.7],small:[0.3,45],overOne:[1.2,420],precise:[0.375,2250],tiny:[0.0015,72]}:
+ {add:[8,27],subtract:[12,21],reverse:[15,24],negative:[-25,9],multiply:[6,-66],divide:[5,-7],decimal:[1.5,10.5],reverseFraction:[9,0.4],hundred:[100,0.8],small:[0.4,72],overOne:[1.25,600],precise:[0.225,1800],tiny:[0.0024,144]};
+ const qs=[];
+ const mc=(group,title,intro,board,options,hints,explain,wrong,variable='x')=>{
+  const offset=(qs.length+seed)%options.length;
+  const rotated=options.map((html,i)=>({html,correct:i===0}));
+  for(let k=0;k<offset;k++)rotated.push(rotated.shift());
+  qs.push({group,title,intro,board,type:'choice',variable,options:rotated.map(o=>o.html),correct:rotated.findIndex(o=>o.correct),hints,explain,wrong});
+ };
+ const num=(group,title,intro,board,answer,variable,hints,explain)=>
+  qs.push({group,title,intro,board,type:'number',variable,answer:Math.round(answer*1e10)/1e10,label:variable+' =',unit:'',hints,explain});
+ const L=(a,b,letter='x')=>poly([[a,v(letter)],[b,'']]);
+ const steps=(...lines)=>'<div class="math-steps">'+lines.map(s=>'<div>'+s+'</div>').join('')+'</div>';
+ const solution=(variable,answer)=>v(variable)+' = '+fmt(answer);
+ const par=n=>n<0?'('+fmt(n)+')':fmt(n);
+ const verify=(left,right)=>'<p>Athugun: <span class="math">'+left+' = '+fmt(right)+'</span>.</p>';
+ let a,b,board,answer;
+
+ [a,b]=p.add;board=L(1,a)+' = '+fmt(b);answer=b-a;
+ mc(0,'Gerðu það sama báðum megin','Dragðu '+fmt(a)+' frá báðum hliðum. Hvaða jafna fæst?',board,
+  [v('x')+' = '+fmt(b)+' − '+fmt(a),v('x')+' = '+fmt(b)+' + '+fmt(a),v('x')+' = '+frac(b,a),v('x')+' = '+fmt(a)+' − '+fmt(b)],
+  ['Einangraðu x með því að draga '+fmt(a)+' frá báðum hliðum.',
+   'Draga þarf sömu tölu frá báðum hliðum jafnaðarmerkisins. Þá helst jafnan í jafnvægi.'],
+  steps(board,L(1,a)+' − '+fmt(a)+' = '+fmt(b)+' − '+fmt(a),v('x')+' = '+fmt(b)+' − '+fmt(a)),
+  'Framkvæmdu sömu aðgerð báðum megin jafnaðarmerkisins. Þegar '+fmt(a)+' er dregið frá verður hægri hliðin '+fmt(b)+' − '+fmt(a)+'.');
+ num(0,'Finndu gildið á x','Ljúktu lausn sömu jöfnu.',board,answer,'x',
+  ['Dragðu töluna sem bætist við x frá báðum hliðum.',
+   'Þú færð '+v('x')+' = '+fmt(b)+' − '+fmt(a)+'.'],
+  steps(board,v('x')+' = '+fmt(b)+' − '+fmt(a),solution('x',answer))+verify(fmt(answer)+' + '+fmt(a),b));
+ [a,b]=p.subtract;board=L(1,-a)+' = '+fmt(b);answer=a+b;
+ num(0,'Bættu við báðum megin','Leystu jöfnuna.',board,answer,'x',
+  ['Bættu '+fmt(a)+' við báðar hliðar til að einangra x.',
+   'Þá verður '+v('x')+' = '+fmt(b)+' + '+fmt(a)+'.'],
+  steps(board,L(1,-a)+' + '+fmt(a)+' = '+fmt(b)+' + '+fmt(a),solution('x',answer))+verify(fmt(answer)+' − '+fmt(a),b));
+
+ [a,b]=p.reverse;board=fmt(a)+' = '+fmt(b)+' + '+v('x');answer=a-b;
+ num(1,'Óþekkta talan hægra megin','Leystu jöfnuna. Svarið má vera neikvætt.',board,answer,'x',
+  ['Þú mátt vinna með jöfnuna þótt x sé hægra megin.',
+   'Dragðu '+fmt(b)+' frá báðum hliðum. Þá fæst '+fmt(a)+' − '+fmt(b)+' = '+v('x')+'.'],
+  steps(board,fmt(a)+' − '+fmt(b)+' = '+fmt(b)+' + '+v('x')+' − '+fmt(b),fmt(answer)+' = '+v('x'),solution('x',answer))+verify(fmt(b)+' + '+par(answer),a));
+ [a,b]=p.negative;board=fmt(a)+' = '+L(1,-b,'y');answer=a+b;
+ num(1,'Neikvæð tala og frádráttur','Einangraðu y og finndu gildið.',board,answer,'y',
+  ['Bættu '+fmt(b)+' við báðar hliðar. Þá stendur y eitt og sér hægra megin.',
+   'Reiknaðu '+fmt(a)+' + '+fmt(b)+'. Svarið er enn neikvætt.'],
+  steps(board,fmt(a)+' + '+fmt(b)+' = '+L(1,-b,'y')+' + '+fmt(b),fmt(answer)+' = '+v('y'),solution('y',answer))+verify(par(answer)+' − '+fmt(b),a));
+
+ [a,b]=p.multiply;board=fmt(a)+v('x')+' = '+fmt(b);answer=b/a;
+ mc(2,'Deildu með stuðlinum','Deildu báðum hliðum með '+fmt(a)+'. Hvaða jafna fæst?',board,
+  [v('x')+' = '+frac(fmt(b),fmt(a)),v('x')+' = '+frac(fmt(-b),fmt(a)),v('x')+' = '+par(b)+' · '+fmt(a),v('x')+' = '+fmt(b)+' + '+fmt(a)],
+  [fmt(a)+'x merkir '+fmt(a)+' · x. Deiling er andhverf aðgerð margföldunar.',
+   'Deildu hægri hliðinni líka með '+fmt(a)+'. Neikvæð tala deilt með jákvæðri tölu er neikvæð.'],
+  steps(board,frac(fmt(a)+v('x'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('x',answer))+verify(fmt(a)+' · '+par(answer),b),
+  'Deildu með stuðlinum. Haltu mínusmerkinu á tölunni hægra megin.');
+ [a,b]=p.divide;board=frac(v('x'),fmt(a))+' = '+fmt(b);answer=a*b;
+ num(2,'Margfaldaðu með nefnaranum','Leystu jöfnuna.',board,answer,'x',
+  ['Brotastrikið merkir deilingu. Til að eyða deilingu með '+fmt(a)+' margfaldarðu báðar hliðar með '+fmt(a)+'.',
+   'Þú færð '+v('x')+' = '+fmt(a)+' · '+par(b)+'.'],
+  steps(board,fmt(a)+' · '+frac(v('x'),fmt(a))+' = '+fmt(a)+' · '+par(b),solution('x',answer))+verify(frac(fmt(answer),fmt(a)),b));
+
+ [a,b]=p.decimal;board=fmt(a)+v('s')+' = '+fmt(b);answer=b/a;
+ num(3,'Tugabrot sem stuðull','Leystu jöfnuna. Þú mátt nota reiknivél við deilinguna.',board,answer,'s',
+  ['Talan fyrir framan s er stuðull. Deildu báðum hliðum með honum.',
+   'Reiknaðu '+frac(fmt(b),fmt(a))+'. Þú mátt nota kommu eða punkt í svarinu.'],
+  steps(board,frac(fmt(a)+v('s'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('s',answer))+verify(fmt(a)+' · '+fmt(answer),b));
+ [a,b]=p.reverseFraction;board=fmt(a)+' = '+frac(v('z'),fmt(b));answer=a*b;
+ num(3,'Tugabrot í nefnara','Einangraðu z. Óþekkta talan er hægra megin.',board,answer,'z',
+  ['Hér er deilt með '+fmt(b)+'. Margfaldaðu því báðar hliðar með '+fmt(b)+'.',
+   'Þá fæst '+fmt(a)+' · '+fmt(b)+' = '+v('z')+'.'],
+  steps(board,fmt(a)+' · '+fmt(b)+' = '+frac(v('z'),fmt(b))+' · '+fmt(b),fmt(answer)+' = '+v('z'),solution('z',answer))+verify(frac(fmt(answer),fmt(b)),a));
+ [a,b]=p.hundred;board=frac(v('s'),fmt(a))+' = '+fmt(b);answer=a*b;
+ num(3,'Deiling með hundrað','Finndu s.',board,answer,'s',
+  ['Til að eyða deilingu með '+fmt(a)+' margfaldarðu báðar hliðar með '+fmt(a)+'.',
+   'Reiknaðu '+fmt(a)+' · '+fmt(b)+'. Athugaðu síðan með því að deila svarinu með '+fmt(a)+'.'],
+  steps(board,fmt(a)+' · '+frac(v('s'),fmt(a))+' = '+fmt(a)+' · '+fmt(b),solution('s',answer))+verify(frac(fmt(answer),fmt(a)),b));
+
+ [a,b]=p.small;board=fmt(a)+v('x')+' = '+fmt(b);answer=b/a;
+ mc(4,'Stuðull minni en einn','Hvaða reikningur gefur gildið á x?',board,
+  [v('x')+' = '+frac(fmt(b),fmt(a)),v('x')+' = '+fmt(b)+' · '+fmt(a),v('x')+' = '+frac(fmt(a),fmt(b)),v('x')+' = '+fmt(b)+' − '+fmt(a)],
+  ['Aðferðin er sú sama þótt stuðullinn sé minni en einn: deildu með stuðlinum.',
+   'Til að fá x eitt og sér þarf að reikna '+frac(fmt(b),fmt(a))+'.'],
+  steps(board,frac(fmt(a)+v('x'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('x',answer))+verify(fmt(a)+' · '+fmt(answer),b),
+  'Hér þarf að deila, ekki margfalda. Reikningurinn er hægri hliðin deilt með stuðlinum.');
+ [a,b]=p.overOne;board=fmt(a)+v('x')+' = '+fmt(b);answer=b/a;
+ num(4,'Stuðull stærri en einn','Leystu jöfnuna. Notaðu reiknivél eftir þörfum.',board,answer,'x',
+  ['Deildu báðum hliðum með '+fmt(a)+'.',
+   'Skráðu '+fmt(b)+' ÷ '+fmt(a)+' í reiknivélina. Athugaðu svo hvort margfeldi svarsins og '+fmt(a)+' sé '+fmt(b)+'.'],
+  steps(board,frac(fmt(a)+v('x'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('x',answer))+verify(fmt(a)+' · '+fmt(answer),b));
+ [a,b]=p.precise;board=fmt(a)+v('x')+' = '+fmt(b);answer=b/a;
+ num(4,'Þrír aukastafir í stuðlinum','Leystu jöfnuna. Ekki námunda stuðulinn.',board,answer,'x',
+  ['Deildu með nákvæmlega '+fmt(a)+'. Allir aukastafirnir skipta máli.',
+   'Reiknaðu '+frac(fmt(b),fmt(a))+'. Notaðu svo margföldun til að athuga svarið.'],
+  steps(board,frac(fmt(a)+v('x'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('x',answer))+verify(fmt(a)+' · '+fmt(answer),b));
+ [a,b]=p.tiny;board=fmt(a)+v('x')+' = '+fmt(b);answer=b/a;
+ num(4,'Mjög lítill stuðull','Leystu jöfnuna. Hér getur lausnin verið stór tala.',board,answer,'x',
+  ['Deildu með '+fmt(a)+'. Ekki sleppa núllum úr tugabrotinu.',
+   'Reiknaðu '+frac(fmt(b),fmt(a))+'. Stór lausn getur verið rétt því stuðullinn er mjög lítill.'],
+  steps(board,frac(fmt(a)+v('x'),fmt(a))+' = '+frac(fmt(b),fmt(a)),solution('x',answer))+verify(fmt(a)+' · '+fmt(answer),b));
+ return {questions:qs,parameters:p};
+}
+function parseNumber(value){
+ const clean=String(value).trim().replace(/[−–]/g,'-').replace(/\s+/g,'').replace(/,/g,'.');
+ const pattern=/^[+-]?(?:\d+(?:\.\d*)?|\.\d+)$/;
+ if(!clean)return null;
+ const bits=clean.split('/');
+ if(bits.length>2||!bits.every(b=>pattern.test(b)))return null;
+ const nums=bits.map(Number);
+ if(nums.some(n=>!Number.isFinite(n))||(bits.length===2&&nums[1]===0))return null;
+ return bits.length===2?nums[0]/nums[1]:nums[0];
+}
+function isCorrect(q,record){
+ if(q.type==='choice')return record.choice===q.correct;
+ const n=parseNumber(record.answer);return n!==null&&Math.abs(n-q.answer)<1e-9;
+}
+const cleanRecord=()=>({choice:null,answer:'',done:false,hints:0,attempts:0});
+const cleanState=(seed=0)=>({version:VERSION,seed:seed%2,cursor:0,records:build(seed).questions.map(cleanRecord)});
+function validState(s){
+ const integer=(x,a,b)=>Number.isSafeInteger(x)&&x>=a&&x<=b;
+ if(!s||s.version!==VERSION||!integer(s.seed,0,1))return false;
+ const qs=build(s.seed).questions;
+ if(!integer(s.cursor,0,qs.length)||!Array.isArray(s.records)||s.records.length!==qs.length)return false;
+ return s.records.every((r,i)=>r&&typeof r==='object'&&(r.choice===null||integer(r.choice,0,(qs[i].options?.length??0)-1))&&typeof r.answer==='string'&&r.answer.length<=80&&typeof r.done==='boolean'&&integer(r.hints,0,qs[i].hints.length)&&integer(r.attempts,0,1000000)&&(!r.done||isCorrect(qs[i],r)));
+}
+
+const root=document.getElementById('ggj-lota16-timi5');
+const $=id=>root.querySelector('#'+id);
+const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let storageWorks=true,state,notice='';
+let stored=null;
+try{stored=localStorage.getItem(KEY);}catch{storageWorks=false;}
+try{state=JSON.parse(stored);if(!validState(state))state=cleanState();}
+catch{state=cleanState();}
+let questions=build(state.seed).questions;
+function save(){try{localStorage.setItem(KEY,JSON.stringify(state));}catch{storageWorks=false;}}
+const storageText=()=>storageWorks?'Framvindan geymist í þessum vafra. Svör eru ekki send til kennara.':'Vafrinn leyfir ekki vistun. Framvindan helst meðan æfingin er opin.';
+function groupIndices(g){return questions.map((q,i)=>q.group===g?i:-1).filter(i=>i>=0);}
+function progress(){
+ const total=state.records.filter(r=>r.done).length;
+ const current=questions[state.cursor]?.group;
+ $('progress').innerHTML=GROUPS.map((_,g)=>{const ids=groupIndices(g),done=ids.every(i=>state.records[i].done);return '<i class="'+(done?'done ':'')+(current===g?'current':'')+'"></i>';}).join('');
+ $('progress').setAttribute('aria-valuenow',String(total));
+ $('progress').setAttribute('aria-valuemax',String(questions.length));
+ $('progress').setAttribute('aria-valuetext',total+' af '+questions.length+' spurningum lokið');
+}
+function feedback(q,r){
+ $('feedback').innerHTML=r.done?'<div class="feedback success"><strong>Rétt hjá þér</strong>'+q.explain+'</div>':notice?'<div class="feedback"><strong>Skoðum þetta aðeins</strong>'+notice+'</div>':'';
+ $('hints').innerHTML=r.hints?'<div class="hint-box"><strong>Vísbending'+(r.hints>1?'ar':'')+'</strong>'+q.hints.slice(0,r.hints).map(h=>'<p>'+h+'</p>').join('')+'</div>':'';
+}
+function render(focus=false){
+ save();progress();
+ if(state.cursor===questions.length){summary(focus);return;}
+ const q=questions[state.cursor],r=state.records[state.cursor];
+ $('stepcount').textContent='Hluti '+(q.group+1)+' af '+GROUPS.length;
+ $('subcount').textContent='Spurning '+(state.cursor+1)+' af '+questions.length;
+ const isFigure=q.board.startsWith('<svg'),isWords=q.board.startsWith('<div');
+ let inputs='';
+ if(q.type==='choice'){
+ inputs='<div class="choices" role="group" aria-label="Svarmöguleikar">'+q.options.map((o,i)=>'<button type="button" class="choice '+(r.choice===i?'selected ':'')+(r.done&&r.choice===i?'correct':'')+'" data-choice="'+i+'" aria-pressed="'+(r.choice===i)+'" '+(r.done?'disabled':'')+'><span class="letter" aria-hidden="true">'+String.fromCharCode(65+i)+'</span><span class="math">'+o+'</span></button>').join('')+'</div>';
+ }else{
+ inputs='<div class="answer-field"><label for="answer">'+escape(q.label)+(q.unit?' ('+escape(q.unit)+')':'')+'</label><div class="input-row"><input id="answer" type="text" inputmode="text" maxlength="80" autocomplete="off" aria-describedby="input-help" value="'+escape(r.answer)+'" '+(r.done?'disabled':'')+'><span class="unit">'+escape(q.unit)+'</span></div><p id="input-help" class="input-help">Skrifaðu tölu eða almennt brot, til dæmis −1,5 eða −3/2. Þú mátt nota kommu eða punkt í tugabroti.</p></div>';
+ }
+ $('exercise').innerHTML='<div class="eyebrow">'+GROUPS[q.group]+'</div><h1 id="heading" tabindex="-1">'+q.title+'</h1><p class="intro">'+q.intro+'</p><div class="board '+(isFigure?'figure-board':'algebra-board')+'">'+(isFigure||isWords?q.board:'<div class="equation">'+q.board+'</div>')+'</div>'+inputs;
+ $('back').disabled=state.cursor===0;
+ $('hint').hidden=false;$('hint').disabled=r.done||r.hints>=q.hints.length;
+ $('check').hidden=false;$('check').textContent=r.done?(state.cursor===questions.length-1?'Skoða yfirlit →':'Áfram →'):'Athuga svar →';
+ feedback(q,r);
+ root.querySelectorAll('[data-choice]').forEach(b=>b.onclick=()=>{
+  if(r.done)return;
+  r.choice=Number(b.dataset.choice);notice='';render();
+  root.querySelector('[data-choice="'+r.choice+'"]')?.focus({preventScroll:true});
+ });
+ if($('answer')){
+  $('answer').oninput=e=>{r.answer=e.target.value;notice='';$('feedback').innerHTML='';save();};
+  $('answer').onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();check();}};
+ }
+ if(focus)$('heading').focus({preventScroll:true});
+}
+function check(){
+ if(state.cursor===questions.length)return;
+ const q=questions[state.cursor],r=state.records[state.cursor];
+ if(r.done){state.cursor++;notice='';render(true);return;}
+ if(q.type==='choice'&&r.choice===null){notice='Veldu svarmöguleika fyrst.';feedback(q,r);return;}
+ if(q.type==='number'&&parseNumber(r.answer)===null){notice='Skráðu tölu eða almennt brot í svarreitinn. Ef þú notar brot má nefnarinn ekki vera núll.';feedback(q,r);$('answer').focus();return;}
+ r.attempts++;r.done=isCorrect(q,r);
+ notice=r.done?'':q.wrong||'Skoðaðu útreikningana aftur. Vísbendingin getur hjálpað þér að finna næsta skref.';
+ render();
+ if(r.done)$('check').focus({preventScroll:true});
+ else if(q.type==='number'){$('answer').focus({preventScroll:true});$('answer').select();}
+}
+function summary(focus=false){
+ const total=state.records.filter(r=>r.done).length,complete=total===questions.length;
+ $('stepcount').textContent='Yfirlit';$('subcount').textContent=total+' af '+questions.length+' lokið';
+ $('hint').hidden=true;$('check').hidden=true;$('back').disabled=false;
+ $('feedback').innerHTML='';$('hints').innerHTML='';
+ $('exercise').innerHTML='<div class="summary"><div class="seal" aria-hidden="true">'+(complete?'✓':'↗')+'</div><div class="eyebrow">Lota 16 · 5. tími</div><h1 id="heading" tabindex="-1">'+(complete?'Vel gert. Æfingunni er lokið.':'Haltu áfram með æfinguna.')+'</h1><p class="intro">'+(complete?'Þú hefur einangrað óþekktar tölur, notað sömu aðgerð báðum megin og leyst jöfnur með neikvæðum tölum og tugabrotum.':'Þú hefur lokið '+total+' spurningum. Veldu hluta í yfirlitinu eða haltu áfram með næstu spurningu sem þú átt eftir.')+'</p><ul class="summary-list">'+GROUPS.map((name,g)=>{const ids=groupIndices(g),done=ids.filter(i=>state.records[i].done).length;return '<li class="'+(done===ids.length?'finished':'unfinished')+'">'+name+' <span>'+done+'/'+ids.length+'</span></li>';}).join('')+'</ul><button type="button" class="primary" id="again">'+(complete?'Æfa aftur með nýjum tölum':'Halda áfram')+' →</button><p class="storage-note">'+storageText()+'</p></div>';
+ $('again').onclick=()=>{
+  if(complete){state=cleanState((state.seed+1)%2);questions=build(state.seed).questions;}
+  else state.cursor=state.records.findIndex(r=>!r.done);
+  notice='';render(true);
+ };
+ if(focus)$('heading').focus({preventScroll:true});
+}
+$('check').onclick=check;
+$('hint').onclick=()=>{if(state.cursor>=questions.length)return;const r=state.records[state.cursor],q=questions[state.cursor];if(!r.done){r.hints=Math.min(r.hints+1,q.hints.length);save();feedback(q,r);$('hint').disabled=r.hints>=q.hints.length;}};
+$('back').onclick=()=>{if(state.cursor>0){state.cursor--;notice='';render(true);}};
+$('outline').onclick=()=>{
+ $('outlineItems').innerHTML=GROUPS.map((name,g)=>{const ids=groupIndices(g),done=ids.filter(i=>state.records[i].done).length;return '<button type="button" class="outline-item" data-group="'+g+'"><span>'+String(g+1).padStart(2,'0')+'</span>'+name+'<small>'+done+'/'+ids.length+' lokið</small></button>';}).join('')+'<button type="button" class="outline-item" id="showSummary">Skoða stöðu æfingarinnar →</button>';
+ $('storageNote').textContent=storageText();
+ root.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{const ids=groupIndices(Number(b.dataset.group));state.cursor=ids.find(i=>!state.records[i].done)??ids[0];notice='';$('outlineDialog').close();render(true);});
+ $('showSummary').onclick=()=>{state.cursor=questions.length;notice='';$('outlineDialog').close();render(true);};
+ $('outlineDialog').showModal();
+};
+$('closeDialog').onclick=()=>$('outlineDialog').close();
+$('outlineDialog').addEventListener('click',e=>{if(e.target===$('outlineDialog')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close();}});
+render();
+
+})();
+</script>
+<script src="child.js" defer></script>
+</body></html>
